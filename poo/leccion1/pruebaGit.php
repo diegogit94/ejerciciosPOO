@@ -10,5 +10,11 @@
 
 	<q>Segunda modificación desde el portatil</q>
 
+	<?php 
+
+	$colores = array("Azul", "Verde", "Negro", "Morado");
+
+	 ?>
+
 </body>
 </html>
