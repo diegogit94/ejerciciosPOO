@@ -13,11 +13,7 @@ abstract class Animal extends LivingBeing
 		$this->name = $name;
 	}
 
-	public function feed()
-	{
-
-	}
-
+	abstract public function feed();
 
 }
 

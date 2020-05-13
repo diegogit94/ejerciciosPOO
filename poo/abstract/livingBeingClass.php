@@ -9,10 +9,7 @@ abstract class LivingBeing
 		$this->name = $name;
 	}
 
-	public function feed()
-	{
-
-	}
+	abstract public function feed();
 
 }
 
